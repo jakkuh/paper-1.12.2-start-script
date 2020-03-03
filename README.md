@@ -4,7 +4,7 @@ Minecraft Paper 1.12.2 Start Script w/ automatic updating, automatic restart, op
 
 ### Dependencies: java, screen
 
-By default the script is set to use 3GB of RAM. Make sure you `chmod +x` all three files so they are actually executable.
+By default the script is set to use 8GB of RAM. Make sure you `chmod +x` all three files so they are actually executable.
 
 
 Deploy command:
