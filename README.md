@@ -5,3 +5,10 @@ Minecraft Paper 1.12.2 Start Script w/ automatic updating, automatic restart, op
 ### Dependencies: java, screen
 
 By default the script is set to use 3GB of RAM. Make sure you `chmod +x` all three files so they are actually executable.
+
+
+Deploy command:
+
+```
+wget https://raw.githubusercontent.com/jakkuh/paper-1.12.2-start-script/master/loop.sh && wget https://raw.githubusercontent.com/jakkuh/paper-1.12.2-start-script/master/start.sh && https://raw.githubusercontent.com/jakkuh/paper-1.12.2-start-script/master/update.sh && chmod +x loop.sh start.sh update.sh
+```
